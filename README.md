@@ -10,6 +10,7 @@ Goal:
 To build a solid foundation in Python and start building my own automation tools.
 
 Timeline: 100 Days of consistent coding (hopefully I can do it LOL)
+
 📅 The Daily Log
 Day 1: Learning to Print (Status: On Going)
 
