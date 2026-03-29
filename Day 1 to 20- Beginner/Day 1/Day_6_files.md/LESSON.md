@@ -69,8 +69,7 @@ else:
 print("Go away!")
  
 👉 Suzanne's password is 'Su74nne'. Can you add that to the code above? (HINT: It should be very similar to Mark.)
-Answer
-Add_a_password.py
+Answer:  Add_a_password.py
 
 ****
 **Common Errors**
@@ -93,8 +92,7 @@ print("Hey there Suzanne!")
 
   The elif statement is in the wrong place. It must go in between the if and else statements.
 
-Answer
-syntax_error_challenge.py
+Answer:   syntax_error_challenge.py
 
 ****
 **Fix My Code**
@@ -116,9 +114,7 @@ else:
 print("I don't know that season. Please try again.")
 
 
-Answer
-
-fix_my_code.py
+Answer:  fix_my_code.py
 
 ****
 👉 Day 6 Challenge
