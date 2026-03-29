@@ -16,6 +16,7 @@ https://replit.com/@replit/day6100-days
 
 
 **What the elif is this?**
+
 The elif command (which stands for 'elseif') allows you to ask 2, 3, 4 or 142 questions using the same input! This command must be in a certain place. You can have as many elif statements as you want, but they must go in between if and else and have the same indentation. The print statements in your elif command need to line up with the indent of the other print statements.
  
 Where would an elif statement go in the code below?
@@ -30,6 +31,7 @@ Answer
 An elif statement would go in between the if and else statements.
 
 👉 Add this elif statement to the code above. Make sure you indent properly AND put it in between the if and else statements!
+
 elif username == "suzanne":
  print("Hey there Suzanne!")
  
@@ -72,9 +74,11 @@ Add_a_password.py
 
 
 **Common Errors**
+
 First, delete any other code in your main.py file. Copy each code snippet below into main.py by clicking the copy icon in the top right of each code box. Then, hit run and see what errors occur. Fix the errors and press run again until you are error free. 
 
 **Syntax Error**
+
 👉 What is wrong the code below?
 
 print("SECURE LOGIN")
@@ -94,7 +98,9 @@ syntax_error_challenge
 
 
 **Fix My Code**
+
 👉 Try and fix this code which is full of errors.
+
 First, delete any other code in your main.py file. Copy each code snippet below into main.py by clicking the copy icon in the top right of each code box. Then, hit run and see what errors occur. Fix the errors and press run again until you are error free. Click on the 👀  to compare your code to the correct code.
 
 season = input(what is your favorite season?)
@@ -115,7 +121,9 @@ fix_my_code.py
 
 
 👉 Day 6 Challenge
+
 Make your own login program.
+
 Create a program where someone logins with their username and password correctly and then gets a lovely individual greeting.
 Remember the word and to make sure the username AND password are correct.
 Write a specific personalized greeting for 3 different people.
