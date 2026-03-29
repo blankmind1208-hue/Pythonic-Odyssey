@@ -46,7 +46,7 @@ elif username == "suzanne":
 else:
   print("Go away!")
 
-
+****
 **Add a password**
 
 Let's add a bit more input.
@@ -72,7 +72,7 @@ print("Go away!")
 Answer
 Add_a_password.py
 
-
+****
 **Common Errors**
 
 First, delete any other code in your main.py file. Copy each code snippet below into main.py by clicking the copy icon in the top right of each code box. Then, hit run and see what errors occur. Fix the errors and press run again until you are error free. 
@@ -93,10 +93,10 @@ print("Hey there Suzanne!")
 
   The elif statement is in the wrong place. It must go in between the if and else statements.
 
+Answer
+syntax_error_challenge.py
 
-syntax_error_challenge
-
-
+****
 **Fix My Code**
 
 👉 Try and fix this code which is full of errors.
@@ -116,10 +116,11 @@ else:
 print("I don't know that season. Please try again.")
 
 
-****
+Answer
+
 fix_my_code.py
 
-
+****
 👉 Day 6 Challenge
 
 Make your own login program.
