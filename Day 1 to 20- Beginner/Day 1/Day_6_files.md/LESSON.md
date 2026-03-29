@@ -45,13 +45,12 @@ else:
   print("Go away!")
 
 
-
-
-
-
 **Add a password**
+
 Let's add a bit more input.
+
 👉 Now that we have input for both a username and password, we need to change our if and elif statements just a bit so both the username and password must match for Mark and Suzanne to login.
+
 print("SECURE LOGIN")
 username = input("Username > ")
 password = input("Password> ")
