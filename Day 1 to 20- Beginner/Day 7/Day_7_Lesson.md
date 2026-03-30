@@ -1,4 +1,4 @@
-**Day 7 - 100 Days of Code: Nesting**
+# Day 7 - 100 Days of Code: Nesting
 
 Table of Contents
 - Nesting
@@ -28,18 +28,29 @@ Pay attention to the vertical lines (as shown with the blue arrows in this image
 👉 Do you notice the second if statement below about faveCharacter and how it is indented?
 
 tvShow = input("What is your favorite tv show? ")
+
 if tvShow == "peppa pig":
+
  print("Ugh, why?")
+ 
  faveCharacter = input("Who is your favorite character? ")
+ 
  if faveCharacter == "daddy pig":
+ 
    print("Right answer")
+   
  else:
+ 
    print("Nah, Daddy Pig's the greatest")
+   
 elif tvShow == "paw patrol":
+
  print("Aww, sad times")
+ 
 
 
 else:
+
  print("Yeah, that's cool and all…")
  
 I highly doubt your favorite TV shows are Peppa Pig and Paw Patrol. Copy the code above and change it to match your favorite TV shows and characters.
